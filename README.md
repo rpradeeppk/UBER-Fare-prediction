@@ -24,5 +24,5 @@ Algorithms we used:
   
 Normaly accuracy value is more then 80% but some companies ask 60%, here we got 52 to 69% with help of Liner Regression,Random forest,Decision Tree.
 Here hepl of XGBoost got 72%, XGBoost is designed for speed, ease of use, and performance on large datasets. It does not require optimization of the parameters or tuning, which means that it can be used immediately after installation without any further configuration.
-It's designed to help you build better models and works by combining decision trees and gradient boosting. That is why we are used XGBoost.
+It's designed to help you build better models and works by combining decision trees and gradient boosting. That is why used XGBoost here.
 
